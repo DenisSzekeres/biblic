@@ -5,7 +5,7 @@ body {
 img {
     height: 100%;
     width: 100%;
-    border: 0.31px solid white;
+    border: 0.31rem solid white;
 }
 
 h1 {
@@ -16,7 +16,7 @@ h1 {
 .poster {
     width: 50%;
     margin-left: 25%;
-    margin-top: 100px;
+    margin-top: 6,25rem;
     color: white;
     text-align: center;
     font-family: 'Libre Baskerville', serif;
